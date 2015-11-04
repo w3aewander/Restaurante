@@ -2,8 +2,6 @@
 
 
 {<block name="header">}
-
-
 {</block>}
 
 

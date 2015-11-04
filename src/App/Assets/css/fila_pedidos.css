@@ -1,0 +1,33 @@
+/* 
+    Created on : 08/09/2015, 15:39:48
+    Author     : wanderlei
+*/
+/*$li-cor: #edac0b;*/
+.container .btn-primary {
+  background-color: #2f8f1e; }
+
+.panel .panel-heading {
+  background-color: #2f8f1e; }
+
+.painel-fila-pedidos {
+  display: block;
+  width: 320px;
+  position: absolute;
+  right: 0px;
+  bottom: -20px;
+  z-index: 9999; }
+  .painel-fila-pedidos .panel-body {
+    width: 300px;
+    height: 280px;
+    display: none;
+    overflow: auto; }
+    .painel-fila-pedidos .panel-body ul {
+      padding: 0;
+      margin: 0; }
+      .painel-fila-pedidos .panel-body ul li {
+        background: transparent;
+        text-align: left; }
+        .painel-fila-pedidos .panel-body ul li a {
+          font-size: 0.7em; }
+
+/*# sourceMappingURL=fila_pedidos.css.map */

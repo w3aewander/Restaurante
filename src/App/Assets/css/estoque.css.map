@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;AAQI,iCAAc;EACV,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,KAAK;AAGhB,6BAAU;EACN,MAAM,EAAE,GAAG",
+"sources": ["../sass/estoque.scss"],
+"names": [],
+"file": "estoque.css"
+}

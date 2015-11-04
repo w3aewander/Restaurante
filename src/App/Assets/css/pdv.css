@@ -1,0 +1,14 @@
+/* Estilos para a view PDV/Frente de Loja... */
+.inline {
+  display: block;
+  width: 220px;
+  float: left;
+  text-align: center; }
+
+.fundo-mesa {
+  background-color: #eee;
+  background-image: url("../imagens/mesax.png");
+  background-position: center center;
+  background-repeat: no-repeat; }
+
+/*# sourceMappingURL=pdv.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,iBAAiB;EACb,UAAU,EAAE,IAAI",
+"sources": ["../sass/pedido.scss"],
+"names": [],
+"file": "pedido.css"
+}

@@ -1,0 +1,71 @@
+/* 
+    Created on : 07/09/2015, 18:59:00
+    Author     : wanderlei
+*/
+/* $fundo-ul-padrao: #ed710c;*/
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff670f+32,f9f945+97 */
+.fundo-menu-gradiente {
+  background: #9b866e;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #a0948d 32%, #f1f1e1 97%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #ff670f), color-stop(97%, #f9f945));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #a0948d 32%, #f1f1e1 97%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #a0948d 32%, #f1f1e1 97%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #a0948d 32%, #f1f1e1 97%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, top, #a0948d 32%, #f1f1e1 97%);
+  /* W3C */ }
+
+.painel-lateral {
+  position: absolute;
+  display: block;
+  width: 210px;
+  border-radius: 15px; }
+  .painel-lateral li a {
+    display: block;
+    margin: 0;
+    text-decoration: none;
+    color: #fff; }
+  .painel-lateral .btn {
+    margin: 0; }
+  .painel-lateral ul {
+    position: relative;
+    display: block;
+    top: 0;
+    width: 200px;
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Georgia, sans-serif;
+    font-size: 12pt;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px; }
+    .painel-lateral ul li {
+      cursor: pointer;
+      position: relative; }
+    .painel-lateral ul li:hover ul li ul {
+      display: none;
+      margin: 0; }
+    .painel-lateral ul li:hover ul {
+      display: block; }
+      .painel-lateral ul li:hover ul li:hover {
+        color: #fff; }
+      .painel-lateral ul li:hover ul li:hover ul {
+        position: absolute;
+        margin: 0;
+        width: 200px;
+        top: 0;
+        left: 195px;
+        display: block; }
+    .painel-lateral ul ul {
+      display: none;
+      padding-top: 0;
+      margin: 0; }
+
+/*# sourceMappingURL=home_menu.css.map */

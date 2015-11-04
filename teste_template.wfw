@@ -1,0 +1,10 @@
+
+<meta charset="utf-8" />
+
+<link rel="import" href="src/App/View/header.html" />
+
+!#$teste#!
+
+@foreach ( $arr_frutas as $fruta): #!
+     !#$fruta#!
+@endforeach#!
