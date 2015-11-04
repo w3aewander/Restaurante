@@ -156,9 +156,10 @@
                                     <li><a href="/fornecedor">Fornecedores</a></li>
                                     <li><a href="/produto">Produtos</a></li>
                                     <li role="separator" class="divider"></li>
-                                    <li><a href="/fluxocaixa">Fluxo de Caixa</a></li>
-                                    <li role="separator" class="divider"></li>
                                     <li><a href="#">Relatórios</a></li>
+<li><a href="/FluxoCaixa">Fluxo de Caixa</a></li>
+<li><a href="/entrada">Registrar Entradas</a></li>
+<li><a href="/saida">Registrar Saídas</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -242,8 +243,14 @@
                     </div>
                     <div class="panel-body">
                         <div class="list-group">
-                            <a href="/fluxocaixa" class="list-group-item glyphicon glyphicon-console">
+                            <a href="/FluxoCaixa" class="list-group-item glyphicon glyphicon-console">
                                 Fluxo de caixa
+                            </a>
+                            <a href="/entrada" class="list-group-item glyphicon glyphicon-console">
+                                Registrar Entrada
+                            </a>
+                            <a href="/saida" class="list-group-item glyphicon glyphicon-console">
+                                Registrar Saída
                             </a>
                         </div>
                     </div>

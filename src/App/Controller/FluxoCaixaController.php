@@ -25,9 +25,10 @@ class FluxoCaixaController extends \Core\Controller\Controller {
         $this->template->assign("arr_fluxo",$arr_fluxo);
     }
     
-    public function index(){       
+    public function index() {       
         $this->template->display("fluxo/index.tpl");
     }
+
     public function registrar(){
         
         try {
