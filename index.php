@@ -17,7 +17,7 @@
  *
  */
 session_start();
-set_include_path("/home/wanderlei/wfw/vendor/smarty/smarty/libs/");
+set_include_path(__DIR__."/vendor/smarty/smarty/libs/");
 
 date_default_timezone_set('America/Sao_Paulo');
 
